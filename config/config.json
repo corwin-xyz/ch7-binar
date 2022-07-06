@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "corwin",
+    "password": "corwin123",
+    "database": "binarch7",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "corwin",
+    "password": "corwin123",
+    "database": "binarch7_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "corwin",
+    "password": "corwin123",
+    "database": "binarch7_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
